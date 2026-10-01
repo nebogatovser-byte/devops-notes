@@ -4,7 +4,7 @@ My DevOps learning project.
 
 This line was added from the first local repository.
 
-## Discliamer
+## Disclaimer
 This configuration is intended solely for local development and training purposes. The server is bound to the address 127.0.0.1 (accessible only from the local machine) and openly exposes the contents of the `linux/` directory. Do not use this script or unit file for public-facing websites without first configuring access restrictions and hiding system files.
 
 ## File description
